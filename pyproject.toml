@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools >= 61.0",]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "open-source-news-analysis"
+version = "0.0.0"
+requires-python = "==3.13.*"
+dependencies = [
+    "pygithub",
+    "pandas",
+    "pyarrow",
+    "rich",
+    "click",
+    "jupyterlab",
+    "ipywidgets",
+    "altair",
+    "pre-commit",
+]
+authors = [
+  { name="Ben Welsh", email="b@palewi.re" },
+]
+description = ""
+license = {text = "MIT"}
+readme = "README.md"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: MIT License",
+]
+
+[tool.setuptools]
+packages = ["pipeline"]
