@@ -11,7 +11,7 @@ The transformed data files include:
 
 ## [`orgs.csv`](data/transformed/orgs.csv)
 
-A catalog of news organizations and their GitHub handles, categorized by organization type.
+A catalog of news organizations and their GitHub handles.
 
 | Column | Description |
 |--------|-------------|
@@ -21,7 +21,7 @@ A catalog of news organizations and their GitHub handles, categorized by organiz
 
 ## [`org-repos.csv`](data/transformed/org-repos.csv)
 
-Comprehensive repository data for all GitHub repositories belonging to the tracked news organizations.
+All repositories created for all GitHub repositories belonging to the orgs.csv file.
 
 | Column | Description |
 |--------|-------------|
@@ -43,29 +43,30 @@ Comprehensive repository data for all GitHub repositories belonging to the track
 
 ## [`org-activity.csv`](data/transformed/org-activity.csv)
 
-Annual commit activity data for each organization from 2008-2025, showing open source contribution patterns over time.
+Annual repository creation for each organization from 2008-2025.
 
 | Column | Description |
 |--------|-------------|
 | `org` | The GitHub handle of the organization |
-| `2008` | Number of commits in 2008 |
-| `2009` | Number of commits in 2009 |
-| `2010` | Number of commits in 2010 |
-| `2011` | Number of commits in 2011 |
-| `2012` | Number of commits in 2012 |
-| `2013` | Number of commits in 2013 |
-| `2014` | Number of commits in 2014 |
-| `2015` | Number of commits in 2015 |
-| `2016` | Number of commits in 2016 |
-| `2017` | Number of commits in 2017 |
-| `2018` | Number of commits in 2018 |
-| `2019` | Number of commits in 2019 |
-| `2020` | Number of commits in 2020 |
-| `2021` | Number of commits in 2021 |
-| `2022` | Number of commits in 2022 |
-| `2023` | Number of commits in 2023 |
-| `2024` | Number of commits in 2024 |
-| `2025` | Number of commits in 2025 |
-| `total` | Total commits across all years |
+| `2008` | Number of new repositories in 2008 |
+| `2009` | Number of new repositories in 2009 |
+| `2010` | Number of new repositories in 2010 |
+| `2011` | Number of new repositories in 2011 |
+| `2012` | Number of new repositories in 2012 |
+| `2013` | Number of new repositories in 2013 |
+| `2014` | Number of new repositories in 2014 |
+| `2015` | Number of new repositories in 2015 |
+| `2016` | Number of new repositories in 2016 |
+| `2017` | Number of new repositories in 2017 |
+| `2018` | Number of new repositories in 2018 |
+| `2019` | Number of new repositories in 2019 |
+| `2020` | Number of new repositories in 2020 |
+| `2021` | Number of new repositories in 2021 |
+| `2022` | Number of new repositories in 2022 |
+| `2023` | Number of new repositorie in 2023 |
+| `2024` | Number of new repositories in 2024 |
+| `2025` | Number of new repositories in 2025 |
+| `total` | Total new repositories across all years |
 | `percent_change_16to24` | Percentage change in activity from 2016 to 2024 |
+| `annual_avg_16to23` | Average annual new repositories from 2016 to 2023 |
 | `latest_update` | Timestamp of the most recent repository update |
