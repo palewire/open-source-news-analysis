@@ -68,5 +68,6 @@ Annual repository creation for each organization from 2008-2025.
 | `2025` | Number of new repositories in 2025 |
 | `total` | Total new repositories across all years |
 | `percent_change_16to24` | Percentage change in activity from 2016 to 2024 |
-| `annual_avg_16to23` | Average annual new repositories from 2016 to 2023 |
+| `annual_avg_13to17` | Average annual new repositories from 2013 to 2017 |
+| `annual_avg_14to23` | Average annual new repositories from 2014 to 2023 |
 | `latest_update` | Timestamp of the most recent repository update |
