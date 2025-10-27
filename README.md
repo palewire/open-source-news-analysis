@@ -64,7 +64,7 @@ Annual repository creation for each organization from 2008-2025.
 | `2020` | Number of new repositories in 2020 |
 | `2021` | Number of new repositories in 2021 |
 | `2022` | Number of new repositories in 2022 |
-| `2023` | Number of new repositorie in 2023 |
+| `2023` | Number of new repositories in 2023 |
 | `2024` | Number of new repositories in 2024 |
 | `2025` | Number of new repositories in 2025 |
 | `total` | Total new repositories across all years |
