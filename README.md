@@ -2,6 +2,7 @@ The findings presented by [Ben Welsh](https://palewi.re) and [Scott Klein](https
 
 This repository includes:
 
+* [The presentation deck](https://docs.google.com/presentation/d/e/2PACX-1vSStLrWGzjy3iy1YF3i_NmjH5Lp1-EyD1wQm6JbKlewaZ5htzIOQz-noTL-Cnxu_EEr0mD7BGQj2Oi3/pub?start=false&loop=false&delayms=3000) from the Oct. 24 event in Chicago
 * The download scripts used to gather data from GitHub in the `pipeline/` directory.
 * The processed data files used to generate our findings in the `data/` directory. The downloaded data is too large to publish here, but it can be recreated using the download scripts.
 * The findings presented at the conference in the `findings.ipynb` Jupyter notebook.
