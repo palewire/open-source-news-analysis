@@ -1,4 +1,4 @@
-The findings presented by [Ben Welsh](https://palewi.re) and [Scott Klein](https://www.linkedin.com/in/kleinmatic/) during the "Commitment Issues: Rebuilding Journalism’s Culture of Sharing" session at [the News Product Alliance's 2025 conference](https://newsproduct.org/npasummit/sessions) in Chicago.
+The findings presented by [Ben Welsh](https://palewi.re) and [Scott Klein](https://www.linkedin.com/in/kleinmatic/) during the "Commitment Issues: Rebuilding Journalism’s Culture of Sharing" session at [the News Product Alliance's 2025 conference](https://newsproduct.org/npasummit/sessions) in Chicago. They're also summarized in a [January 2026 post on Source](https://source.opennews.org/articles/journalism-lost-sharing-culture/).
 
 This repository includes:
 
